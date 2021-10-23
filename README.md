@@ -4,7 +4,7 @@ Studying Software Engineering at University of Minho (3rd Year)
 
 
 
-[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpdiasfernandes&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpdiasfernandes&count_private=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me here:
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pedro-fernandes-4ba14b20b/) •
