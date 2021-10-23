@@ -1,6 +1,19 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
+Studying Software Engineering at University of Minho (3rd Year)
+
+
+
+[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpdiasfernandes&count_private=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+You can find me here:
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pedro-fernandes-4ba14b20b/) •
+[Instagram](https://www.instagram.com/jpdiasfernandes13/) •
+[Blog](http://jpfernandesmaps.online/) 
+
+ 
+ 
+ <!---
 **jpdiasfernandes/jpdiasfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
