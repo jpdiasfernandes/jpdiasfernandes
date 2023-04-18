@@ -10,7 +10,7 @@ Studying Software Engineering at University of Minho (4rd Year)
 You can find me here:
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pedro-fernandes-4ba14b20b/) •
 [Instagram](https://www.instagram.com/jpdiasfernandes13/) •
-[Blog](http://jpfernandesmaps.online/) 
+
 
  
  
