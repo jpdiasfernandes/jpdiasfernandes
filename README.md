@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Studying Software Engineering at University of Minho (4rd Year)
+Studying Software Engineering at University of Minho (4th Year)
 
 
 
