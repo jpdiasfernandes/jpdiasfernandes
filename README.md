@@ -1,6 +1,8 @@
 ### Hi 👋
 
-Finishing my studies in Software Engineering at University of Minho (5th Year)
+Finishing my studies in Software Engineering at University of Minho (5th Year).
+I Have a big interest in distributed systems and operating systems. 
+Also trying not to be a total disaster in C++ :)
 
 You can find me here:
 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pedro-fernandes-4ba14b20b/) 
